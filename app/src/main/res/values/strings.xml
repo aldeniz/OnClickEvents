@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnClickEvents</string>
+    <string name="but1">HELLO</string>
+    <string name="but2">ЗДРАВЕЙ</string>
+</resources>
